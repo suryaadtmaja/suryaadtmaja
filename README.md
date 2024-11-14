@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Surya, a Frontend Developer with over six years of experience building web applications using Vue.js and various JavaScript frameworks. On this GitHub profile, you’ll mostly find my experiments, learning projects, and a few miscellaneous snippets.
+
+I began my programming journey with Ruby—though I never fully mastered it—and later shifted to JavaScript as my primary language. In 2024, I started learning Go, driven by a genuine love for exploring programming languages. This passion keeps me motivated to continually learn and experiment.
+
+
+[Javascript Artefact](https://github.com/suryaadtmaja?tab=repositories&q=&type=&language=javascript&sort=) | [Typescript Artefact](https://github.com/suryaadtmaja?tab=repositories&q=&type=&language=typescript&sort=) | [Ruby Artefact](https://github.com/suryaadtmaja?tab=repositories&q=&type=&language=ruby&sort=) | [UI Artefact](https://github.com/suryaadtmaja?tab=repositories&q=&type=&language=html&sort=) | [Go](https://github.com/suryaadtmaja?tab=repositories&q=&type=&language=go&sort=) | [Vue / Nuxt](https://github.com/suryaadtmaja?tab=repositories&q=&type=&language=vue&sort=)
+
 <!--
 **suryaadtmaja/suryaadtmaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
