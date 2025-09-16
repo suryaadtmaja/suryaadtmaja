@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Surya, a Frontend Developer with over six years of experience building web applications using Vue.js and various JavaScript frameworks. On this GitHub profile, you’ll mostly find my experiments, learning projects, and a few miscellaneous snippets.
+I'm Surya, a Frontend Developer with over six years of experience building web applications using Vue.js and various JavaScript frameworks. On this GitHub profile, you’ll mostly find my day-to-day jobs commit, experiments, learning projects, and a few miscellaneous snippets.
 
 I began my programming journey with Ruby though I never fully mastered it and later shifted to JavaScript as my primary language. In 2024, I started learning Go, driven by a genuine love for exploring programming languages. This passion keeps me motivated to continually learn and experiment.
 
