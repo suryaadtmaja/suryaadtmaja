@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Surya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=suryaadtmaja&show_icons=true&theme=transparent&langs_count=19&size_weight=0.5&count_weight=0.5&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Surya's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=suryaadtmaja&show_icons=true&theme=ayu-mirage#gh-dark-mode-only&langs_count=19&size_weight=0.5&count_weight=0.5&hide=css,html)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Surya's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=suryaadtmaja&show_icons=true&theme=dark#gh-dark-mode-only&langs_count=19&size_weight=0.5&count_weight=0.5&hide=css,html)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
